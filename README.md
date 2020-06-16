@@ -5,5 +5,3 @@
 #### 2 Graph Search, Shortest Paths, and Data Structures
 #### 3 Greedy Algorithms, Minimum Spanning Trees, and Dynamic Programming
 #### 4 Shortest Paths Revisited, NP-Complete Problems and What To Do About Them
-
-Stanford University
