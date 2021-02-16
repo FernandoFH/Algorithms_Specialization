@@ -1,7 +1,10 @@
-### Algorithms Specialization 
-###### Stanford University
+### Data Structures and Algorithms Specialization
+###### University of California San Diego 
+###### HSE University
 
-1) Divide and Conquer, Sorting and Searching, and Randomized Algorithms
-2) Graph Search, Shortest Paths, and Data Structures
-3) Greedy Algorithms, Minimum Spanning Trees, and Dynamic Programming
-4) Shortest Paths Revisited, NP-Complete Problems and What To Do About Them
+  1) Algorithmic Toolbox
+  2) Data Structures
+  3) Algorithms on Graphs
+  4) Algorithms on Strings
+  5) Advanced Algorithms and Complexity
+  6) Genome Assembly Programming Challenge
