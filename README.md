@@ -8,7 +8,7 @@
   5) Advanced Algorithms and Complexity
   6) Genome Assembly Programming Challenge
 
-# Data Structures
+### Data Structures
   #### By [Hackerrank](https://www.hackerrank.com/domains/data-structures) Path 
   * Arrays 
   * Strings
