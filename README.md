@@ -1,5 +1,7 @@
 ### Data Structures and Algorithms Specialization
 ###### University of California San Diego || HSE University
+[Data Structures Algorithms](https://www.coursera.org/specializations/data-structures-algorithms) 
+
   1) Algorithmic Toolbox
   2) Data Structures
   3) Algorithms on Graphs
