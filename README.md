@@ -8,9 +8,18 @@
   * Graphs
   * Tries
   * Hash Tables
+
+----
+#### [Algorithms](https://www.coursera.org/learn/algorithms-part1) - Part I
+#### [Algorithms](https://www.coursera.org/learn/algorithms-part2) - Part II
 ----
 #### [Data Structures Algorithms](https://www.coursera.org/specializations/data-structures-algorithms) || University of California San Diego & HSE University
 ----
 #### [Algorithms Specialization](https://www.coursera.org/specializations/algorithms) || Stanford
 ----
+
+----
+#### [Algorithms Specialization](https://www.coursera.org/specializations/algorithms) || Stanford
+----
+
 #### [Advanced Algorithmics and Graph Theory with Python](https://learning.edx.org/course/course-v1:IMTx+NET04x+3T2018/home) 
