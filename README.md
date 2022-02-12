@@ -10,8 +10,8 @@
   * Hash Tables
 
 ----
-#### [Algorithms](https://www.coursera.org/learn/algorithms-part1) - Part I
-#### [Algorithms](https://www.coursera.org/learn/algorithms-part2) - Part II
+#### [Algorithms](https://www.coursera.org/learn/algorithms-part1) - Part I || Princeton University
+#### [Algorithms](https://www.coursera.org/learn/algorithms-part2) - Part II || Princeton University
 ----
 #### [Data Structures Algorithms](https://www.coursera.org/specializations/data-structures-algorithms) || University of California San Diego & HSE University
 ----
