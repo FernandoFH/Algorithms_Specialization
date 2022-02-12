@@ -1,8 +1,4 @@
-#### [Data Structures Algorithms](https://www.coursera.org/specializations/data-structures-algorithms) || University of California San Diego & HSE University
-----
-#### [Algorithms Specialization](https://www.coursera.org/specializations/algorithms) || Stanford
-----
-Data Structures By [Hackerrank](https://www.hackerrank.com/domains/data-structures) Path 
+Data Structures By [Hackerrank](https://www.hackerrank.com/domains/data-structures) 
   * Arrays 
   * Strings
   * Linked Lists 
@@ -12,6 +8,9 @@ Data Structures By [Hackerrank](https://www.hackerrank.com/domains/data-structur
   * Graphs
   * Tries
   * Hash Tables
-
+----
+#### [Data Structures Algorithms](https://www.coursera.org/specializations/data-structures-algorithms) || University of California San Diego & HSE University
+----
+#### [Algorithms Specialization](https://www.coursera.org/specializations/algorithms) || Stanford
 ----
 #### [Advanced Algorithmics and Graph Theory with Python](https://learning.edx.org/course/course-v1:IMTx+NET04x+3T2018/home) 
