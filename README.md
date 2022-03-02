@@ -1,3 +1,7 @@
+
+#### 40 Algorithms Every Programmer Should Know Implementation in Python
+
+
 #### Data Structures By [Hackerrank](https://www.hackerrank.com/domains/data-structures) 
   * Arrays 
   * Strings
@@ -17,9 +21,4 @@
 ----
 #### [Algorithms Specialization](https://www.coursera.org/specializations/algorithms) || Stanford
 ----
-
-----
-#### [Algorithms Specialization](https://www.coursera.org/specializations/algorithms) || Stanford
-----
-
 #### [Advanced Algorithmics and Graph Theory with Python](https://learning.edx.org/course/course-v1:IMTx+NET04x+3T2018/home) 
