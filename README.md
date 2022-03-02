@@ -2,16 +2,6 @@
 #### 40 Algorithms Every Programmer Should Know Implementation in Python
 ----
 #### Data Structures By [Hackerrank](https://www.hackerrank.com/domains/data-structures) 
-  * Arrays 
-  * Strings
-  * Linked Lists 
-  * Stacks 
-  * Queues
-  * Trees & Binary Trees
-  * Graphs
-  * Tries
-  * Hash Tables
-
 ----
 #### [Algorithms](https://www.coursera.org/learn/algorithms-part1) - Part I || Princeton University
 #### [Algorithms](https://www.coursera.org/learn/algorithms-part2) - Part II || Princeton University
