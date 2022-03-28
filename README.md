@@ -1,7 +1,7 @@
 
 #### 40 Algorithms Every Programmer Should Know Implementation in Python [Repo](./40_Algorithms_Every_Programmer_Should_Know) 
 ----
-#### Data Structures By [Hackerrank](https://www.hackerrank.com/domains/data-structures) 
+#### Data Structures By [Hackerrank](https://www.hackerrank.com/domains/data-structures)  || [Repo](./Data_Structures_Hackerrank) 
 ----
 #### [Algorithms](https://www.coursera.org/learn/algorithms-part1) - Part I || Princeton University
 #### [Algorithms](https://www.coursera.org/learn/algorithms-part2) - Part II || Princeton University
