@@ -1,5 +1,5 @@
 
-#### 40 Algorithms Every Programmer Should Know Implementation in Python
+#### 40 Algorithms Every Programmer Should Know Implementation in Python [Here](./40_Algorithms_Every_Programmer_Should_Know) 
 ----
 #### Data Structures By [Hackerrank](https://www.hackerrank.com/domains/data-structures) 
 ----
