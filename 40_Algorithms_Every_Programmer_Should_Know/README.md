@@ -4,7 +4,6 @@
 ### Table of Contents
 
 - [Section 1: Fundamentals and Core Algorithms](Section_1_Fundamentals/)
-
     - Chapter 1: Overview of Algorithms
     - Chapter 2: Data Structures Used in Algorithms
     - Chapter 3: Sorting and Searching Algorithms
@@ -18,7 +17,7 @@
     - Chapter 9: Algorithms for Natural Language Processing
     - Chapter 10: Recommendation Engines 
 
-- Section 3: Advanced Topics
+- [Section 3: Advanced Topics](Section_3_Advanced_Topics/)
     - Chapter 11: Data Algorithms
     - Chapter 12: Cryptography
     - Chapter 13: Large-Scale Algorithms
