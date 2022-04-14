@@ -11,7 +11,7 @@
     - Chapter 4: Designing Algorithms
     - Chapter 5: Graph Algorithms
 
-- Section 2: Machine Learning Algorithms
+- [Section 2: Machine Learning Algorithms](Section_2_Machine_Learning/)
     - Chapter 6: Unsupervised Machine Learning Algorithms
     - Chapter 7: Traditional Supervised Learning Algorithms
     - Chapter 8: Neural Network Algorithms
