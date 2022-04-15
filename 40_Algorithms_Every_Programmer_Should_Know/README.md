@@ -3,7 +3,7 @@
 
 ### Table of Contents
 
-- [Section 1: Fundamentals and Core Algorithms](Section_1_Fundamentals/)
+- [Section 1: Fundamentals and Core Algorithms](Section_1_Fundamentals/) Chapter_1
     - Chapter 1: Overview of Algorithms
     - Chapter 2: Data Structures Used in Algorithms
     - Chapter 3: Sorting and Searching Algorithms
