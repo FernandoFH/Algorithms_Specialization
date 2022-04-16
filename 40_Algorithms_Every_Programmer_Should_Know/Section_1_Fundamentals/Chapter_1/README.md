@@ -1,3 +1,6 @@
+## Chapter 1
+
+
 ### What is an algorithm? 
   - The phases of an algorithm 
   - Specifying the logic of an algorithm
