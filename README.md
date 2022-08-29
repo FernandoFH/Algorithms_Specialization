@@ -2,7 +2,8 @@
 |Date |Description|Source|Repo  |Status|
 |---- | --------- |------|------|------|
 |29/08/2022| Data Structures|[Hackerrank](https://www.hackerrank.com/domains/data-structures) |[D&S Hackerrank](./Data_Structures_Hackerrank) |🟡|
-|29/08/2022| Data Structures & Algorithms |[Google](https://techdevguide.withgoogle.com/paths/data-structures-and-algorithms) | |🟡|
+| | Algorithms |[Hackerrank](https://www.hackerrank.com/domains/algorithms) |[Algorithms Hackerrank]() ||
+| | Data Structures & Algorithms |[Google](https://techdevguide.withgoogle.com/paths/data-structures-and-algorithms) | |🟡|
 | |  40 Algorithms Every Programmer Should Know Implementation in Python | Book  |[40 Algorithms](./40_Algorithms_Every_Programmer_Should_Know)|||  
 
 ----
