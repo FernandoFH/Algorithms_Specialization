@@ -10,21 +10,7 @@ Data Structures and Algorithms in Python - Full Course for Beginners
     <td> Taca
     </td>
     <td>
-        ```mermaid
-        graph TD;
-            A-->B;
-            A-->C;
-            B-->D;
-            C-->D;
-    ```
+    ![Descripción de la imagen](./Test.md)
     </td>
  </tr>
 </table>
-
-    ```mermaid
-        graph TD;
-            A-->B;
-            A-->C;
-            B-->D;
-            C-->D;
-    ```
