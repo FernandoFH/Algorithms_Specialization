@@ -9,14 +9,7 @@ Data Structures and Algorithms in Python - Full Course for Beginners
  <tr>
     <td> Taca
     </td>
-    <td>
-```mermaid
-graph LR
-A[Hard edge] -->B(Round edge)
-    B --> C{Decision}
-    C -->|One| D[Result one]
-    C -->|Two| E[Result two]
-​```
+    <td> [Test](./Test.md)
     </td>
  </tr>
 </table>
