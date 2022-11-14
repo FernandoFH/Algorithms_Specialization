@@ -8,7 +8,6 @@ Data Structures and Algorithms in Python - Full Course for Beginners - [Video](h
  <tr>
     <td> Taca
     </td>
-    <td> [Test](./Test.md)
-    </td>
+    <td> <a source='./Test.md'>Test</td>
  </tr>
 </table>
