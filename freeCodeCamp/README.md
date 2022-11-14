@@ -1,7 +1,6 @@
 Data Structures and Algorithms in Python - Full Course for Beginners
 []()
 
-
 <table border="0">
  <tr>
     <td><b style="font-size:20px">Data Structures</b></td>
@@ -10,7 +9,22 @@ Data Structures and Algorithms in Python - Full Course for Beginners
  <tr>
     <td> Taca
     </td>
-    <td> TaKa
+    <td>
+        ```mermaid
+        graph TD;
+            A-->B;
+            A-->C;
+            B-->D;
+            C-->D;
+    ```
     </td>
  </tr>
 </table>
+
+    ```mermaid
+        graph TD;
+            A-->B;
+            A-->C;
+            B-->D;
+            C-->D;
+    ```
