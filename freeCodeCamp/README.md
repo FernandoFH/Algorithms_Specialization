@@ -8,9 +8,9 @@ Data Structures and Algorithms in Python - Full Course for Beginners
     <td><b style="font-size:20px"></b></td>
  </tr>
  <tr>
-    <td> 
+    <td> Taca
     </td>
-    <td> 
+    <td> TaKa
     </td>
  </tr>
 </table>
