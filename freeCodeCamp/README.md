@@ -3,7 +3,7 @@ Data Structures and Algorithms in Python - Full Course for Beginners - [Video](h
 <table border="0">
  <tr>
     <td><b style="font-size:20px">Data Structures</b></td>
-    <td><b style="font-size:20px"></b></td>
+    <td><b style="font-size:20px">Graph</b></td>
  </tr>
  <tr>
     <td> Taca
