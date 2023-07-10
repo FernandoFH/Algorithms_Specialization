@@ -3,7 +3,6 @@
 
 Es una colección lineal de valores de datos a los que se puede acceder utilizando índices numerados que inician en 0.
 
-
 - Acceso a un valor en un índice determinado: 0(1)
 - Actualización de un valor en un índice dado: 0(1)
 
@@ -20,6 +19,12 @@ Copiar el array: O(n)
 
 ## Dos Apuntadores
  
+### Notas Algoritmos 
+ - Busqueda Binanria 
+ - Maximo de lista enlazada 
+ - Maximo de un Arbol 
+ - Busqueda en la profundidad
+ - Counting sort 
 
 
 
