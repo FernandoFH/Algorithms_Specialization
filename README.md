@@ -1,6 +1,3 @@
-#### [Algorithms](https://www.coursera.org/learn/algorithms-part1) - Part I 
-#### 
-
 
 |Date |Description|Source|Repo  |Status|
 |---- | --------- |------|------|------|
@@ -11,8 +8,7 @@
 | | 40 Algorithms Every Programmer Should Know Implementation in Python | Book  |[40 Algorithms](./40_Algorithms_Every_Programmer_Should_Know)|||  
 
 ----
-
-
+#### [Algorithms](https://www.coursera.org/learn/algorithms-part1) - Part I 
 #### [Algorithms](https://www.coursera.org/learn/algorithms-part2) - Part II || 
 #### [Data Structures Algorithms](https://www.coursera.org/specializations/data-structures-algorithms) || University of California San Diego & HSE University
 #### [Advanced Algorithmics and Graph Theory with Python](https://learning.edx.org/course/course-v1:IMTx+NET04x+3T2018/home) 
