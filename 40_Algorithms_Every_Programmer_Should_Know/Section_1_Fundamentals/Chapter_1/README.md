@@ -1,5 +1,4 @@
-## Chapter 1
-
+## Chapter 1. Overview of Algorithms
 
 #### What is an algorithm? 
   - The phases of an algorithm 
@@ -32,3 +31,4 @@
   - Validating an algorithm 
   - Exact, approximate, and randomized algorithms 
   - Explainability 
+
