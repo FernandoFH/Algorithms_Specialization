@@ -1,6 +1,6 @@
 | Date      | Description                                 | Source                                                                             | Repo                                                          | Status |
 | --------- | ------------------------------------------- | ---------------------------------------------------------------------------------- | ------------------------------------------------------------- | ------ |
-| 28/Nov/24 | Algoritmos y estructuras de datos en Python | [Book]                                                                             | [Notas](./AlgoritmosyEstructurasDatos/README.md)              | 🟡     |
+| 31/Jan/25 | Algoritmos y estructuras de datos en Python | [Book]                                                                             | [Notas](./AlgoritmosyEstructurasDatos/README.md)              | 🟡     |
 |           | 40 Algorithms Every Programmer Should Know  | [Book]                                                                             | [40 Algorithms](./40_Algorithms_Every_Programmer_Should_Know) |        |
 |           | Algorithms Stanford                         | [Coursera Stanford]                                                                | [Notas](./Algorithms_Stanford/Algorithms_Stanford/README.md)  |        |
 |           | Data Structures                             | [Hackerrank]                                                                       | [D&S Hackerrank](./ata_Structures_Hackerrank)                 |        |
