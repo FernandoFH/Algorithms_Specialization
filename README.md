@@ -1,6 +1,9 @@
 | Date      | Description                                 | Source                                                                             | Repo                                                          | Status |
 | --------- | ------------------------------------------- | ---------------------------------------------------------------------------------- | ------------------------------------------------------------- | ------ |
-| 31/Jan/25 | Algoritmos y estructuras de datos en Python | [Book]                                                                             | [Notas](./AlgoritmosyEstructurasDatos/README.md)              | 🟡     |
+| 04/FEB/25 | Analysis of Algorithms                      | Coursera                                                                           | [Notas](./PrincetonUniversity/README.md)                      | 🟡     |
+|           | Algorithms - Part I                         | Coursera                                                                           | [Notas](./PrincetonUniversity/README.md)                      |        |
+|           | Algorithms - Part II                        | Coursera                                                                           | [Notas](./PrincetonUniversity/README.md)                      |        |
+|           | Algoritmos y estructuras de datos en Python | [Book]                                                                             | [Notas](./AlgoritmosyEstructurasDatos/README.md)              |        |
 |           | 40 Algorithms Every Programmer Should Know  | [Book]                                                                             | [40 Algorithms](./40_Algorithms_Every_Programmer_Should_Know) |        |
 |           | Algorithms Stanford                         | [Coursera Stanford]                                                                | [Notas](./Algorithms_Stanford/Algorithms_Stanford/README.md)  |        |
 |           | Data Structures                             | [Hackerrank]                                                                       | [D&S Hackerrank](./ata_Structures_Hackerrank)                 |        |
@@ -12,10 +15,6 @@
 - [Coursera Stanford](https://www.coursera.org/specializations/algorithms)
 
 - [Hackerrank](https://www.hackerrank.com/domains/data-structures)
-
-#### [Algorithms](https://www.coursera.org/learn/algorithms-part1) - Part I
-
-#### [Algorithms](https://www.coursera.org/learn/algorithms-part2) - Part II ||
 
 #### [Data Structures Algorithms](https://www.coursera.org/specializations/data-structures-algorithms) || University of California San Diego & HSE University
 
