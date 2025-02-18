@@ -1,6 +1,6 @@
 | Date      | Description                                 | Source                                                                             | Repo                                                          | Status |
 | --------- | ------------------------------------------- | ---------------------------------------------------------------------------------- | ------------------------------------------------------------- | ------ |
-| 04/FEB/25 | Analysis of Algorithms                      | Coursera                                                                           | [Notas](./PrincetonUniversity/README.md)                      | 🟡     |
+| 15/FEB/25 | Analysis of Algorithms                      | Coursera                                                                           | [Notas](./PrincetonUniversity/README.md)                      | 🟡     |
 |           | Algorithms - Part I                         | Coursera                                                                           | [Notas](./PrincetonUniversity/README.md)                      |        |
 |           | Algorithms - Part II                        | Coursera                                                                           | [Notas](./PrincetonUniversity/README.md)                      |        |
 |           | Algoritmos y estructuras de datos en Python | [Book]                                                                             | [Notas](./AlgoritmosyEstructurasDatos/README.md)              |        |
@@ -30,6 +30,18 @@
 - Advanced Algorithms (COMPSCI 224)
 
   - https://www.youtube.com/playlist?list=PL2SOU6wwxB0uP4rJgf5ayhHWgw7akUWSf
+
+- Design and Analysis of Algorithms
+
+  - https://stanford-cs161.github.io/winter2024/
+
+- A Second Course in Algorithms
+
+  - https://www.youtube.com/playlist?list=PLEGCF-WLh2RJh2yDxlJJjnKswWdoO8gAc
+
+- Algorithmic Game Theory
+
+  - https://www.youtube.com/playlist?list=PLEGCF-WLh2RJBqmxvZ0_ie-mleCFhi2N4
 
 Complete DSA Roadmap
 
