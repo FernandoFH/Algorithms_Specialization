@@ -43,6 +43,11 @@
 
   - https://www.youtube.com/playlist?list=PLEGCF-WLh2RJBqmxvZ0_ie-mleCFhi2N4
 
+
+- Advanced Algorithms 6.854J | Fall 2008 | Graduate
+
+  - https://ocw.mit.edu/courses/6-854j-advanced-algorithms-fall-2008/
+
 Complete DSA Roadmap
 
 |-- Basic_Data_Structures
