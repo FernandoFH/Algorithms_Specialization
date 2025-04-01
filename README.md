@@ -1,9 +1,9 @@
 | Date      | Description                                 | Source                                                                             | Repo                                                          | Status |
 | --------- | ------------------------------------------- | ---------------------------------------------------------------------------------- | ------------------------------------------------------------- | ------ |
-| 15/FEB/25 | Analysis of Algorithms                      | Coursera                                                                           | [Notas](./PrincetonUniversity/README.md)                      | 🟡     |
+| 20/MAR/25 | Algoritmos y Estructuras de Datos en Python | [Book]                                                                             | [Notas](./AlgoritmosyEstructurasDatos/README.md)              |        |
+| 20/MAR/25 | Analysis of Algorithms                      | Coursera                                                                           | [Notas](./PrincetonUniversity/README.md)                      | 🟡     |
 |           | Algorithms - Part I                         | Coursera                                                                           | [Notas](./PrincetonUniversity/README.md)                      |        |
 |           | Algorithms - Part II                        | Coursera                                                                           | [Notas](./PrincetonUniversity/README.md)                      |        |
-|           | Algoritmos y estructuras de datos en Python | [Book]                                                                             | [Notas](./AlgoritmosyEstructurasDatos/README.md)              |        |
 |           | 40 Algorithms Every Programmer Should Know  | [Book]                                                                             | [40 Algorithms](./40_Algorithms_Every_Programmer_Should_Know) |        |
 |           | Algorithms Stanford                         | [Coursera Stanford]                                                                | [Notas](./Algorithms_Stanford/Algorithms_Stanford/README.md)  |        |
 |           | Data Structures                             | [Hackerrank]                                                                       | [D&S Hackerrank](./ata_Structures_Hackerrank)                 |        |
@@ -43,10 +43,13 @@
 
   - https://www.youtube.com/playlist?list=PLEGCF-WLh2RJBqmxvZ0_ie-mleCFhi2N4
 
-
 - Advanced Algorithms 6.854J | Fall 2008 | Graduate
 
   - https://ocw.mit.edu/courses/6-854j-advanced-algorithms-fall-2008/
+
+- Algorithms | Courses 2020–21
+
+  - https://www.cl.cam.ac.uk/teaching/2021/Algorithms/
 
 Complete DSA Roadmap
 

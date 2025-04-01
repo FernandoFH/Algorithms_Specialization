@@ -1,4 +1,4 @@
-# Algoritmos y estructuras de datos en Python
+# Algoritmos y Estructuras de Datos en Python
 
 #### CAPITULO I - Una breve introducción a algoritmos, estructuras de datos y Python
 
