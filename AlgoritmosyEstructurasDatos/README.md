@@ -2,6 +2,10 @@
 
 #### CAPITULO I - Una breve introducción a algoritmos, estructuras de datos y Python
 
+
+
+
+
 #### CAPÍTULO II - Auto llamadas con algoritmos recursivos
 
 #### CAPÍTULO III - Analizando algoritmos en búsqueda de eficiencia

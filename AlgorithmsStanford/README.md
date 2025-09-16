@@ -2,6 +2,8 @@
 
 ##### Stanford University
 
+[Coursera](https://www.coursera.org/learn/algorithms-divide-conquer/home/module/1)
+
 1. **Divide and Conquer, Sorting and Searching, and Randomized Algorithms**
 
 - Asymptotic ("Big-oh") notation

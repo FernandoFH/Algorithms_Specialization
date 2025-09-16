@@ -1,14 +1,19 @@
-| Date      | Description                                 | Source                                                                             | Repo                                                          | Status |
-| --------- | ------------------------------------------- | ---------------------------------------------------------------------------------- | ------------------------------------------------------------- | ------ |
-| 20/MAR/25 | Algoritmos y Estructuras de Datos en Python | [Book]                                                                             | [Notas](./AlgoritmosyEstructurasDatos/README.md)              |        |
-| 20/MAR/25 | Analysis of Algorithms                      | Coursera                                                                           | [Notas](./PrincetonUniversity/README.md)                      | 🟡     |
-|           | Algorithms - Part I                         | Coursera                                                                           | [Notas](./PrincetonUniversity/README.md)                      |        |
-|           | Algorithms - Part II                        | Coursera                                                                           | [Notas](./PrincetonUniversity/README.md)                      |        |
-|           | 40 Algorithms Every Programmer Should Know  | [Book]                                                                             | [40 Algorithms](./40_Algorithms_Every_Programmer_Should_Know) |        |
-|           | Algorithms Stanford                         | [Coursera Stanford]                                                                | [Notas](./Algorithms_Stanford/Algorithms_Stanford/README.md)  |        |
-|           | Data Structures                             | [Hackerrank]                                                                       | [D&S Hackerrank](./ata_Structures_Hackerrank)                 |        |
-|           | Algorithms                                  | [Hackerrank](https://www.hackerrank.com/domains/algorithms)                        | [Algorithms Hackerrank]()                                     |        |
-|           | Data Structures & Algorithms                | [Google](https://techdevguide.withgoogle.com/paths/data-structures-and-algorithms) |                                                               |        |
+| Date      | Description                                | Source                                                                             | Repo                                                          | Status |
+| --------- | ------------------------------------------ | ---------------------------------------------------------------------------------- | ------------------------------------------------------------- | ------ |
+| 10/JUL/25 | Analysis of Algorithms                     | Coursera                                                                           | [Notas](./PrincetonUniversity/README.md)                      | 🟡     |
+|           | Algorithms - Part I                        | Coursera                                                                           | [Notas](./PrincetonUniversity/README.md)                      |        |
+|           | Algorithms - Part II                       | Coursera                                                                           | [Notas](./PrincetonUniversity/README.md)                      |        |
+|           | 40 Algorithms Every Programmer Should Know | [Book]                                                                             | [40 Algorithms](./40_Algorithms_Every_Programmer_Should_Know) |        |
+|           | Algorithms Stanford                        | [Coursera Stanford]                                                                | [Notas](./Algorithms_Stanford/Algorithms_Stanford/README.md)  |        |
+|           | Data Structures                            | [Hackerrank]                                                                       | [D&S Hackerrank](./ata_Structures_Hackerrank)                 |        |
+|           | Algorithms                                 | [Hackerrank](https://www.hackerrank.com/domains/algorithms)                        | [Algorithms Hackerrank]()                                     |        |
+|           | Data Structures & Algorithms               | [Google](https://techdevguide.withgoogle.com/paths/data-structures-and-algorithms) |                                                               |        |
+
+---
+
+| | Algoritmos y Estructuras de Datos en Python | [Book] | [Notas](./AlgoritmosyEstructurasDatos/README.md) | |
+
+- [MIT 6.006 Introduction to Algorithms, Spring 2020](./MIT_OpenCourse/MIT-6.006_Introduction_Algorithms/README.md)
 
 ---
 
@@ -24,8 +29,6 @@
 
   - https://people.seas.harvard.edu/~cs224/fall14/index.html
   - https://www.youtube.com/playlist?list=PLUl4u3cNGP6317WaSNfmCvGym2ucw3oGp
-
-- [MIT 6.006 Introduction to Algorithms, Spring 2020](./MIT_OpenCourse/MIT-6.006_Introduction_Algorithms/README.md)
 
 - Advanced Algorithms (COMPSCI 224)
 
