@@ -13,7 +13,7 @@
 
 | | Algoritmos y Estructuras de Datos en Python | [Book] | [Notas](./AlgoritmosyEstructurasDatos/README.md) | |
 
-- [MIT 6.006 Introduction to Algorithms, Spring 2020](./MIT_OpenCourse/MIT-6.006_Introduction_Algorithms/README.md)
+- [MIT 6.006 Introduction to Algorithms, Spring 2020](./MIT_OpenCourse/README.md)
 
 ---
 
@@ -33,6 +33,7 @@
 - Advanced Algorithms (COMPSCI 224)
 
   - https://www.youtube.com/playlist?list=PL2SOU6wwxB0uP4rJgf5ayhHWgw7akUWSf
+  - https://people.seas.harvard.edu/~cs224/fall14/lec.html
 
 - Design and Analysis of Algorithms
 
