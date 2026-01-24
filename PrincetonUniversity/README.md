@@ -1,6 +1,6 @@
 ## Princeton University
 
-#### [Analysis of Algorithms](https://www.coursera.org/programs/plan-bronce-2024-24k-msv68/learn/analysis-of-algorithms)
+#### [Analysis of Algorithms](https://www.coursera.org/learn/analysis-of-algorithms/)
 
 ---
 
@@ -9,6 +9,8 @@
 #### [Algorithms | Part I](https://www.coursera.org/learn/algorithms-part1)
 
 #### [Algorithms | Part II](https://www.coursera.org/learn/algorithms-part2)
+
+#### [Computer Science: Algorithms, Theory, and Machines](https://www.coursera.org/learn/cs-algorithms-theory-machines)
 
 #### [Computer Architecture](https://www.coursera.org/learn/comparch)
 
