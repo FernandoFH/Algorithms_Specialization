@@ -1,0 +1,46 @@
+# Archivos y carpetas generados por compiladores
+*.obj
+*.o
+*.exe
+*.out
+*.app
+*.i
+*.s
+*.ii
+*.so
+*.dylib
+*.dll
+*.lib
+*.a
+*.la
+*.lo
+*.class
+
+# Carpetas de compilación
+build/
+cmake-build-debug/
+cmake-build-release/
+
+# Archivos de configuración de IDEs
+.idea/
+.vscode/
+
+# Archivos temporales
+*.tmp
+*.temp
+*.log
+*.swp
+*.swo
+
+# Archivos de prueba
+*.gcda
+*.gcno
+*.gcov
+
+# Archivos de respaldo
+*~
+*.bak
+*.old
+
+# Otros
+.DS_Store
