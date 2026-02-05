@@ -2,8 +2,6 @@
 
 #### [Analysis of Algorithms](https://www.coursera.org/learn/analysis-of-algorithms/)
 
----
-
 #### [Analytic Combinatorics](https://www.coursera.org/learn/analytic-combinatorics)
 
 #### [Algorithms | Part I](https://www.coursera.org/learn/algorithms-part1)
