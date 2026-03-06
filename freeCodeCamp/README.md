@@ -9,9 +9,3 @@
 | Learn Dynamic Programming with Animations – Full Course for Beginners    | [Youtube](https://www.youtube.com/watch?v=66hDgWottdA) |        |
 | Data Structures and Algorithms Full Course 📈                            | [Youtube](https://www.youtube.com/watch?v=CBYHwZcbD-s) |        |
 | Data Structure and Algorithm Patterns for LeetCode Interviews – Tutorial | [Youtube](https://www.youtube.com/watch?v=Z_c4byLrNBU) |        |
-
-### PORYECTOS
-
-Build a Full Stack Movie Streaming App in Go – Golang, React, MongoDB, OpenAI API Project Course
-
-https://www.youtube.com/watch?v=jBf7of9JTV8

@@ -1,6 +1,6 @@
 ## 40 Algorithms Every Programmer Should Know
 
-<img src="../img/40AlgorithmsEveryProgrammerShouldKnow.PNG" alt="40 Algoritmos" />
+<img src="../images/40AlgorithmsEveryProgrammerShouldKnow.PNG" alt="40 Algoritmos" />
 
 ### Table of Contents
 

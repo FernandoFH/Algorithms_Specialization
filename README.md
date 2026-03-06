@@ -26,28 +26,22 @@
 #### [Advanced Algorithmics and Graph Theory with Python](https://learning.edx.org/course/course-v1:IMTx+NET04x+3T2018/home)
 
 - Advanced Algorithms (COMPSCI 224)
-
   - https://www.youtube.com/playlist?list=PL2SOU6wwxB0uP4rJgf5ayhHWgw7akUWSf
   - https://people.seas.harvard.edu/~cs224/fall14/lec.html
 
 - Design and Analysis of Algorithms
-
   - https://stanford-cs161.github.io/winter2024/
 
 - A Second Course in Algorithms
-
   - https://www.youtube.com/playlist?list=PLEGCF-WLh2RJh2yDxlJJjnKswWdoO8gAc
 
 - Algorithmic Game Theory
-
   - https://www.youtube.com/playlist?list=PLEGCF-WLh2RJBqmxvZ0_ie-mleCFhi2N4
 
 - Advanced Algorithms 6.854J | Fall 2008 | Graduate
-
   - https://ocw.mit.edu/courses/6-854j-advanced-algorithms-fall-2008/
 
 - Algorithms | Courses 2020–21
-
   - https://www.cl.cam.ac.uk/teaching/2021/Algorithms/
 
 Complete DSA Roadmap
@@ -158,3 +152,13 @@ Complete DSA Roadmap
 |
 |-- OnlinePlatforms
 | |-- LeetCode
+
+- Arrays
+- Strings
+- Linked Lists
+- Stacks
+- Queues
+- Trees & Binary Trees
+- Graphs
+- Tries
+- Hash Tables

@@ -2,6 +2,24 @@
 
 #### [Analysis of Algorithms](https://www.coursera.org/learn/analysis-of-algorithms/)
 
+**Module 1:**
+
+**Module 2:**
+
+**Module 3:**
+
+**Module 4:**
+
+**Module 5:**
+
+**Module 6:**
+
+**Module 7:**
+
+**Module 8:**
+
+**Module 9:**
+
 #### [Analytic Combinatorics](https://www.coursera.org/learn/analytic-combinatorics)
 
 #### [Algorithms | Part I](https://www.coursera.org/learn/algorithms-part1)
