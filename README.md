@@ -1,13 +1,13 @@
-| Date      | Description                                | Source                                                                             | Repo                                                          | Status |
-| --------- | ------------------------------------------ | ---------------------------------------------------------------------------------- | ------------------------------------------------------------- | ------ |
-| 10/JUL/25 | Analysis of Algorithms                     | Coursera                                                                           | [Notas](./PrincetonUniversity/README.md)                      | 🟡     |
-|           | Algorithms - Part I                        | Coursera                                                                           | [Notas](./PrincetonUniversity/README.md)                      |        |
-|           | Algorithms - Part II                       | Coursera                                                                           | [Notas](./PrincetonUniversity/README.md)                      |        |
-|           | 40 Algorithms Every Programmer Should Know | [Book]                                                                             | [40 Algorithms](./40_Algorithms_Every_Programmer_Should_Know) |        |
-|           | Algorithms Stanford                        | [Coursera Stanford]                                                                | [Notas](./Algorithms_Stanford/Algorithms_Stanford/README.md)  |        |
-|           | Data Structures                            | [Hackerrank]                                                                       | [D&S Hackerrank](./ata_Structures_Hackerrank)                 |        |
-|           | Algorithms                                 | [Hackerrank](https://www.hackerrank.com/domains/algorithms)                        | [Algorithms Hackerrank]()                                     |        |
-|           | Data Structures & Algorithms               | [Google](https://techdevguide.withgoogle.com/paths/data-structures-and-algorithms) |                                                               |        |
+| Date | Description                                | Source                                                                             | Repo                                                          | Status |
+| ---- | ------------------------------------------ | ---------------------------------------------------------------------------------- | ------------------------------------------------------------- | ------ |
+|      | Analysis of Algorithms                     | Coursera                                                                           | [Notas](./PrincetonUniversity/README.md)                      | 🟡     |
+|      | Algorithms - Part I                        | Coursera                                                                           | [Notas](./PrincetonUniversity/README.md)                      |        |
+|      | Algorithms - Part II                       | Coursera                                                                           | [Notas](./PrincetonUniversity/README.md)                      |        |
+|      | 40 Algorithms Every Programmer Should Know | [Book]                                                                             | [40 Algorithms](./40_Algorithms_Every_Programmer_Should_Know) |        |
+|      | Algorithms Stanford                        | [Coursera Stanford]                                                                | [Notas](./Algorithms_Stanford/Algorithms_Stanford/README.md)  |        |
+|      | Data Structures                            | [Hackerrank]                                                                       | [D&S Hackerrank](./ata_Structures_Hackerrank)                 |        |
+|      | Algorithms                                 | [Hackerrank](https://www.hackerrank.com/domains/algorithms)                        | [Algorithms Hackerrank]()                                     |        |
+|      | Data Structures & Algorithms               | [Google](https://techdevguide.withgoogle.com/paths/data-structures-and-algorithms) |                                                               |        |
 
 ---
 
@@ -158,7 +158,9 @@ Complete DSA Roadmap
 - Linked Lists
 - Stacks
 - Queues
-- Trees & Binary Trees
+- Trees & Binary Trees (Importante)
 - Graphs
 - Tries
 - Hash Tables
+- Heaps
+- Sets
