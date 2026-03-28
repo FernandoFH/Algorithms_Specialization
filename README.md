@@ -164,3 +164,15 @@ Complete DSA Roadmap
 - Hash Tables
 - Heaps
 - Sets
+
+Arrays, Strings y Hash Tables.
+Linked Lists.
+Stacks y Queues.
+Trees.
+Graphs.
+Heaps.
+Tries.
+Dynamic Programming.
+Sorting.
+Searching.
+Bit Manipulation.

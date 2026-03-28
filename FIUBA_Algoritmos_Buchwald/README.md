@@ -1,6 +1,6 @@
 ## Algoritmos Fiuba Curso Buchwald
 
-###### # TDA - 2026 C1
+#### # TDA - 2026 C1
 
 - Bienvenida (09.03.2026)
 
@@ -20,4 +20,6 @@
 // 2026-03-19 - Teórica - Implementaciones sobre Arreglos y Estructuras Enlazadas
 // 2026-03-19 - Práctica - TDAs e Interfaces
 
-###### # Algoritmos - 2026 - C1
+// 2026-03-26 - TDA - Backtracking I
+// 2026-03-26 - Teórica - División y Conquista
+// 2026-03-26 - Práctica - Generics en Go y Ejercitación
