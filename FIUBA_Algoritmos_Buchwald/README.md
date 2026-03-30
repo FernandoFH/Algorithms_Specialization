@@ -14,7 +14,74 @@
   - Algoritmos de resolución de problemas
   - Modelacion de problemas
 
-// 2026-03-09 - Práctica - Bienvenida e intro a Go 2026C1
+#### Práctica - Bienvenida e intro a Go
+
+- Lenguaje de programación: Go
+- Lenguaje con una sintaxis simple y fácil de aprender.
+- Simplifica conceptos complejos de Objetos por structs.
+- Compilado, fuertemente y estaticamente tipado.
+- Compilación rápida y eficiente.
+
+1. En el directorio del archivo go correr
+
+```go
+go mod init ‹modulo>
+cd ..
+go work init
+go work use <modulo>
+```
+
+2. Volver al directorio del archivo .go y correr
+
+```go
+go build -o ‹ejecutable>
+./<ejecutable>
+
+go run main.go
+
+go fmt
+go test -v
+go help
+
+```
+
+Integer
+Floats
+Complex
+Otros
+
+#### Tipos de Datos compuestos
+
+Collecton/Aggregatio or Non-reference Types
+
+- Arrays
+- Structs
+
+Reference Types
+
+- Slices
+- Maps
+- Channels
+- Funciones/Métodos
+- Pointers
+
+Interfaces
+
+Mayuscula -> Publico/Exportado
+Minuscula -> Privado/No Exportado
+
+#### Estructuras de Control
+
+- If/Else
+- Switch
+- For
+- defer
+
+#### Introcciones de corte
+
+- Break
+- Continue
+- Return
 
 #### TDA - Bienvenida e Introducción a Demostraciones
 
@@ -100,9 +167,63 @@ Entonces, la cantidad de caminos de largo n+1 de i a j es la suma de los caminos
 
 $$
 F^{n+1}_{i,j} = \sum_{k} F^n_{i,k} \cdot A_{k,j}
+= \sum_{k} A^n_{i,k} \cdot A_{k,j} = A^{n+1}_{i,j}
 $$
 
-// Clase 1: audiencia, medios y formatos
+- Por lo tanto, por inducción, F^n = A^n para todo n.
+
+#### Propiedades de los autovectores y autovalores:
+
+    - Una mendida de centralidad de los nodos
+    - Una forma de clusterizar (Comunidades)
+           (Mas de esto es Redes Camplejas)
+
+#### Definicion formal de Arbol.
+
+    Un Arbol es un grafo no dirigido tal que, para todo par de vertices existe un unico camino que los une.
+
+$$
+\forall u, v \in V, \; \exists! \; P(u, v)
+$$
+
+Donde:
+
+- $V$ es el conjunto de vértices del grafo.
+- $P(u, v)$ representa el camino entre los vértices $u$ y $v$.
+- $\exists!$ indica que existe un único camino.
+
+- El arbol es conexo y acíclico.
+- El arbol tiene E = V - 1 aristas, donde E es el número de aristas y V es el número de vértices.
+
+#### Teorema
+
+- Todo arbol de al menso dois vertices tiene al menos dos vertices de grado 1.
+
+#### Handshaking lemma:
+
+- En toodo grafo no dirigido, la cantidad de vértices de grado impar es par.
+- La suma de los grados de los vértices de un grafo es igual a dos veces el número de aristas.
+
+Un grafo es bipartito si y solo si no contiene ciclos de longitud impar.
+
+#### Grafos Hamiltonianos y Eulerianos
+
+- Camino de Euler: Un camino que recorre cada arista exactamente una vez.
+- Ciclo de Euler: Un ciclo que recorre cada arista exactamente una vez y regresa al vértice de inicio.
+  un grafo tiene un ciclo de Euler si y solo si es conexo y cada vértice tiene grado par.
+  un grafo tiene un camino de Euler si y solo si es conexo y tiene exactamente dos vértices de grado impar.
+
+- Camino de Hamilton: Un camino que recorre cada vértice exactamente una vez.
+- Ciclo de Hamilton: Un ciclo que recorre cada vértice exactamente una vez y regresa al vértice de inicio.
+  Un grafo completo con n vértices tiene un ciclo de Hamilton si n >= 3.
+  Un grafo con n vértices tiene un ciclo de Hamilton si cada vértice tiene grado al menos n/2.
+
+- Grafos Regulares: Un grafo es k-regular si cada vértice tiene grado k.
+  1. El vector unitario es un autovector de la matriz de adyacencia de un grafo k-regular con autovalor k.
+  2. Un grafo completo es un grafo regular.
+  3. Teorema de Nash-Willimas: Todo grafo k-regular en un grafo con 2k+1 vértices tiene un ciclo de Hamilton.
+
+- Isomorfismo de grafos: Dos grafos G y H son isomorfos si existe una función biyectiva f: V(G) -> V(H) tal que (u, v) es una arista en G si y solo si (f(u), f(v)) es una arista en H.
 
 // 2026-03-12 - Teórica - Introducción a Complejidad Computacional
 // 2026-03-12 - Práctica - Punteros, Arreglos y Slices en Go
