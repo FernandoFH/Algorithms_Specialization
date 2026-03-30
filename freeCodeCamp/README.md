@@ -2,7 +2,7 @@
 
 | Description                                                              | Link                                                   | Status |
 | ------------------------------------------------------------------------ | ------------------------------------------------------ | ------ |
-| Big O Notation - Full Course                                             | [Youtube](https://www.youtube.com/watch?v=Mo4vesaut8g) | 🟡     |
+| Big O Notation Explained                                                 | [Youtube](https://www.youtube.com/watch?v=5T0SiJocPCI) | 🟡     |
 | Data Structures and Algorithms in Python - Full Course for Beginners     | [Youtube](https://www.youtube.com/watch?v=pkYVOmU3MgA) | 🔴     |
 | Data Structures - Full Course Using C and C++                            | [Youtube](https://www.youtube.com/watch?v=B31LgI4Y4DQ) |        |
 | Algorithms and Data Structures Tutorial - Full Course for Beginners      | [Youtube](https://www.youtube.com/watch?v=8hly31xKli0) |        |
