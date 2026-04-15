@@ -240,3 +240,16 @@ Un grafo es bipartito si y solo si no contiene ciclos de longitud impar.
 // 2026-03-26 - Teórica - División y Conquista
 // 2026-03-26 - Práctica - Generics en Go y Ejercitación
 // 2026-03-26 - TDA - Backtracking I
+
+// 2026-03-30 - Teórica - Teorema Maestro y Aplicaciones
+// 2026-03-30 - Práctica - Repaso D&C y ejercitación Pilas y Colas
+// 2026-03-30 - TDA - Backtracking II
+
+// 2026-04-06 - TDA - Ejercitación D&C y Greedy
+
+// 2026-04-09 - Teórica - Bucket Sort y Radix Sort
+// 2026-04-09 - Práctica - Ordenamientos
+// 2026-04-09 - TDA - Programación Dinámica I
+
+// 2026-04-13 - Práctica - Iteradores Externos e Internos
+// 2026-04-13 - TDA - Programación Dinámica II
