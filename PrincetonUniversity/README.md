@@ -1,8 +1,6 @@
-## Algorithms Specialization
+### Algorithms Specialization
 
-### # Princeton University
-
-#### [Analysis of Algorithms](https://www.coursera.org/learn/analysis-of-algorithms/)
+###### Princeton University | [Analysis of Algorithms](https://www.coursera.org/learn/analysis-of-algorithms/)
 
 **Module 1:**
 

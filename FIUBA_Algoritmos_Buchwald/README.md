@@ -251,5 +251,29 @@ Un grafo es bipartito si y solo si no contiene ciclos de longitud impar.
 // 2026-04-09 - Práctica - Ordenamientos
 // 2026-04-09 - TDA - Programación Dinámica I
 
+// 2026-04-13 - Teórica - Iteradores externos e internos
 // 2026-04-13 - Práctica - Iteradores Externos e Internos
 // 2026-04-13 - TDA - Programación Dinámica II
+
+2026-04-16 - TDA - Programación Dinámica III
+2026-04-16 - Práctica - Hashes
+2026-04-16 - Teórica - Diccionarios y Hashes
+
+2026-04-20 - Teórica - Árboles Binarios
+2026-04-20 - TDA - Programación Dinámica IV
+
+2026-04-23 - TDA - Ejercitación BT y D&C
+2026-04-23 - Ejercitación Parcial 1
+
+2026-04-24 - TDA - Ejercitación Backtracking y Programación Dinámica
+2026-04-24 - Teórica - Taller pre parcial 1
+
+2026-04-27 - TDA - Corrección Veloz Parcial 1
+
+2026-04-30 - TDA - Programación Lineal I
+2026-04-30 - Práctica - Ejercitación de Árboles
+2026-04-30 - Teórica - Árboles Binarios de Búsqueda
+
+2026-05-04 - Teórica - Árboles AVL
+2026-05-04 - Práctica - Iteradores de ABB
+2026-05-04 - TDA - Programación Lineal II
